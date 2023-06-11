@@ -14,18 +14,17 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 1.	Intialize the matrix Q and u
 
-2.	The vector u and e is given by
+2.	The vector u and e is given by 
 
-    ![eqn1](./ex4.jpg)
+![image](https://github.com/SivaramakrishnanBaskar/QRdecomposition/assets/119476322/42f1d060-d10e-48c4-bc2b-51ba0d70a1b8)
 
-    ![eqn2](./ex6.jpg)
-
-    ![eqn3](./ex3.jpg)
 
 3.	Obtain the Q matrix   
-    ![eqn4](./ex1.jpg)
+
+![image](https://github.com/SivaramakrishnanBaskar/QRdecomposition/assets/119476322/ed9f4d91-8570-4cc3-b7ad-7eb62cf77494)
 
 4.	Construct the upper triangular matrix R.
+
 ![image](https://github.com/SivaramakrishnanBaskar/QRdecomposition/assets/119476322/e6018a2b-330a-4676-aeb3-7d42b45a799e)
 
     
